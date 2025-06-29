@@ -1,4 +1,4 @@
-Dubai Property Price Analysis and Prediction
+
 Overview
 This project analyzes a simulated Dubai property dataset to predict prices using features like size, bedrooms, location, and property type. It showcases a data science workflow with data generation, cleaning, SQL storage, EDA, visualization, and linear regression modeling.
 Objectives
