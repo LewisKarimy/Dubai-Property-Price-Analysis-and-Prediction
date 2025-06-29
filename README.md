@@ -1,5 +1,6 @@
 
 Overview
+
 This project analyzes a simulated Dubai property dataset to predict prices using features like size, bedrooms, location, and property type. It showcases a data science workflow with data generation, cleaning, SQL storage, EDA, visualization, and linear regression modeling.
 Objectives
 
@@ -18,6 +19,7 @@ Modeling: Linear regression with one-hot encoded features.
 Outputs: CSV dataset, PNG static plots, HTML interactive plots.
 
 Requirements
+
 pip install pandas numpy sqlite3 matplotlib seaborn plotly scikit-learn
 
 Optional: tkinter or PyQt5 for Matplotlib plots.
